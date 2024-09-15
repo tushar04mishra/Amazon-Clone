@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Apple 2024 MacBook Air 13″ Laptop with M3 chip: 34.46 cm (13.6″) Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID- Midnight",
+      "price": "1,50,999",
+      "quantity": 1,
+      "imageUrl": "https://m.media-amazon.com/images/I/71-D1xCuVwL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Apple 2024 MacBook Air 13″ Laptop with M3 chip: 34.46 cm (13.6″) Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID- Space Grey",
+      "price": "1,09,155",
+      "quantity": 1,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ItMeqpN3L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Apple 2024 MacBook Air 15″ Laptop with M3 chip: 38.91 cm (15.3″) Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID- Silver",
+      "price": "1,27,990",
+      "quantity": 1,
+      "imageUrl": "https://m.media-amazon.com/images/I/71h-tsPzk5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+      "price": "3,79,990",
+      "quantity": 1,
+      "imageUrl": "https://m.media-amazon.com/images/I/618d5bS2lUL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 14‑core CPU and 30‑core GPU, 36GB Unified Memory, 1TB) - Space Black",
+      "price": "3,28,990",
+      "quantity": 1,
+      "imageUrl": "https://m.media-amazon.com/images/I/618d5bS2lUL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Apple 2023 MacBook Pro (14-inch, M3 Pro chip with 11‑core CPU and 14‑core GPU, 18GB Unified Memory, 512GB) - Silver",
+      "price": "1,87,990",
+      "quantity": 1,
+      "imageUrl": "https://m.media-amazon.com/images/I/61GS8TscqRL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}
